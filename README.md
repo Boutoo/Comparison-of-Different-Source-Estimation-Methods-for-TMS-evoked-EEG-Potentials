@@ -5,7 +5,7 @@ Institute of Science and Technology, Federal University of São Paulo, São Jos�
 
 ## Background, Motivation and Objective.
 
-The combination of high-density electroencephalography (hd-EEG) and transcranial magnetic stimulation (TMS) is currently being employed to non-invasively assess cortical effective connectivity in humans. In particular, brain complexity measures based on TMS/hd-EEG potentials, such as the Perturbational Complexity Index, have recently attracted considerable attention due to their potential for improving clinical diagnosis of neurological conditions. Such measures of connectivity rely upon source localization techniques to estimate the neural sources of EEG potentials. Recent studies based on spontaneous EEG signals and peripheral evoked potentials have shown contrasting results across different source estimation methods, particularly in situations of low signal to noise ratio. The purpose of this study is to **evaluate the performance of source modeling algorithms** in estimating neural activations from TMS-evoked EEG responses.
+The combination of high-density electroencephalography (hd-EEG) and transcranial magnetic stimulation (TMS) is currently being employed to non-invasively assess cortical effective connectivity in humans. In particular, brain complexity measures based on TMS/hd-EEG potentials, such as the Perturbational Complexity Index, have recently attracted considerable attention due to their potential for improving clinical diagnosis of neurological conditions [1]. Such measures of connectivity rely upon source localization techniques to estimate the neural sources of EEG potentials. Recent studies based on spontaneous EEG signals and peripheral evoked potentials have shown contrasting results across different source estimation methods, particularly in situations of low signal to noise ratio. The purpose of this study is to **evaluate the performance of source modeling algorithms** in estimating neural activations from TMS-evoked EEG responses.
 
 ## Methods.
 
@@ -32,3 +32,4 @@ In this work we tested the performance of well-known EEG source localization tec
 #### **Acknowledgment: São Paulo Research Foundation (FAPESP), grant 2016/08263-9**
 
 ## References
+[1] Casali A.G., Casarotto S., Rosanova M., et. al. General indices to characterize the electrical response of the cerebral cortex to TMS. NeuroImage 49 (2010) 1459-1468
