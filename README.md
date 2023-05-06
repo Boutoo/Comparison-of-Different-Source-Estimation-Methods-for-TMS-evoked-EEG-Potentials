@@ -1,5 +1,5 @@
 # Comparison of Different Source Estimation Methods for TMS evoked EEG Potentials
-### B. A. Couto*, A. G. Casali
+### *Couto B.A.N, Casali A.G.
 Institute of Science and Technology, Federal University of São Paulo, São José dos Campos, Brazil
 ### Keywords. TMS; hd-EEG; EEG Source Estimation; Inverse Solution; Effective connectivity;
 
